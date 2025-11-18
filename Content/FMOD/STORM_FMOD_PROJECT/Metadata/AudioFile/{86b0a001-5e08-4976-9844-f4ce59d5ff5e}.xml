@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{86b0a001-5e08-4976-9844-f4ce59d5ff5e}">
+		<property name="assetPath">
+			<value>time_selection.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>139.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{36ada42b-8f4d-4173-91c8-2fffd5eabc49}</destination>
+		</relationship>
+	</object>
+</objects>
