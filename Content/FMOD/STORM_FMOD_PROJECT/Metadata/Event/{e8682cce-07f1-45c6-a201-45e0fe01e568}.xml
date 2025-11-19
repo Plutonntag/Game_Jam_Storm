@@ -315,12 +315,12 @@
 			<value>3</value>
 		</property>
 		<property name="length">
-			<value>2.9999999999999978</value>
+			<value>2.9999999999999982</value>
 		</property>
 	</object>
 	<object class="SingleSound" id="{72edd639-9668-4e2d-97c0-ea9304d139a8}">
 		<property name="start">
-			<value>192</value>
+			<value>189</value>
 		</property>
 		<property name="length">
 			<value>102</value>
@@ -546,7 +546,7 @@
 	</object>
 	<object class="TransitionMarker" id="{e0f692ca-4659-4ba9-bf2d-030a6da1e059}">
 		<property name="position">
-			<value>294</value>
+			<value>285</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{27fb9cdb-2c40-4357-ba68-388fdc3c0d56}</destination>
@@ -556,6 +556,9 @@
 		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{c63614fd-1f19-4a58-a13a-919e09c229df}</destination>
+		</relationship>
+		<relationship name="destination">
+			<destination>{9fde3b24-dc7f-4822-a3db-2db6d1d53170}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionRegion" id="{746c9e25-6ba9-4a0c-8407-42e1b95499f2}">
