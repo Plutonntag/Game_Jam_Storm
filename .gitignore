@@ -72,6 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-#Arthur's Reaper projects
-Content/FMOD/REAPER/*
